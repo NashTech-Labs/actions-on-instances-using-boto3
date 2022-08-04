@@ -36,5 +36,5 @@ The script recognizes the instance using the instance id.So it becomes easy to d
 2. Now, from the current directory run the following command to validate the script.
 
    ```python
-    start-stop-reboot-terminate.py
+    python3 start-stop-reboot-terminate.py
    ```
